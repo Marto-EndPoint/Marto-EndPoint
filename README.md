@@ -1,26 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hola+%F0%9F%91%8B+Soy+Marto+!!.)](https://git.io/typing-svg)
 
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
----
-<img align="left" src="https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" />
-<hr>
+<img src="https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" style="max-width: 100%; height: auto; margin-right: 20px;"/>
 
-```
+<div>
+
 💻 Técnico en Electrónica con Licenciatura en Desarrollo de Software y Ciberseguridad  
 📚 Estudiante de Ingeniería Informática en la Universidad Nacional de Tucumán  
-🛠️ Especializado en diseño y mantenimiento de sistemas electrónicos,
-desarrollo de soluciones de software y pentesting  
-🔭 Actualmente trabajando en el área de ciberseguridad,
-enfocado en pruebas de penetración y mitigación de vulnerabilidades 
-🌱 En constante formación, expandiendo habilidades
-en desarrollo de software y seguridad digital  
-🌟 Principales tecnologías:** Python, C, C++, Bash, Git  
-🚩 Interesado en la innovación tecnológica, la seguridad informática
-y la creación de soluciones eficientes  
-💖 Apasionado por la tecnología, la mejora continua y los nuevos desafíos
-🎵 Me gusta la música lofi y la música suave
-```
+🛠️ Especializado en diseño y mantenimiento de sistemas electrónicos, desarrollo de soluciones de software y pentesting  
+🔭 Actualmente trabajando en el área de ciberseguridad, enfocado en pruebas de penetración y mitigación de vulnerabilidades  
+🌱 En constante formación, expandiendo habilidades en desarrollo de software y seguridad digital  
+🌟 Principales tecnologías: Python, C, C++, Bash, Git  
+🚩 Interesado en la innovación tecnológica, la seguridad informática y la creación de soluciones eficientes  
+💖 Apasionado por la tecnología, la mejora continua y los nuevos desafíos  
+🎵 Me gusta la música lofi y la música suave  
+
+</div>
+
+</div>
+
 <hr>
+
 
 ## Mis Habilidades
 
