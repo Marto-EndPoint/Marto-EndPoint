@@ -1,6 +1,4 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hola+%F0%9F%91%8B+Soy+Marto!!)](https://git.io/typing-svg)
-  
-  <img align="right" alt="GIF" src="https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif" width="250" height="300" />
 
 ```
 💻 Técnico en Electrónica con Licenciatura en Desarrollo de Software y
