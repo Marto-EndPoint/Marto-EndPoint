@@ -82,13 +82,11 @@
 
 
 ---
+## Mi perfil de TryHackMe
   
 <div align="center">
   <a href="https://tryhackme.com/p/marto.endpoint" target="_blank">
-    <button style="background-color: #2A2A2A; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
-      <img src="https://tryhackme.com/favicon.ico" alt="TryHackMe Logo" style="width: 30px; vertical-align: middle; margin-right: 8px;">
-      Mi Perfil en TryHackMe
-    </button>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/marto.endpoint.png" alt="Your Image Badge" />
   </a>
 </div>
 
