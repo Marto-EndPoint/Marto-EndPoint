@@ -98,9 +98,9 @@ Aquí están algunas de mis medallas obtenidas en TryHackMe:
 
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/marto.endpoint/badges/first-4-rooms">     <img title="First Four"     alt="TryHackMe badge 1"  src="https://assets.tryhackme.com/img/badges/firstfour.svg"      width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://tryhackme.com/img/badges/linux.svg"        width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/ohsint">       <img title="OhSINT"        alt="TryHackMe badge 3"  src="https://tryhackme.com/img/badges/ohsint.svg"       width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"> <img title="Hash Cracker"  alt="TryHackMe badge 4"  src="https://tryhackme.com/img/badges/hashcracker.svg"  width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/marto.endpoint/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://assets.tryhackme.com/img/badges/linux.svg"        width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/marto.endpoint/badges/security-awareness">       <img title="Security Awareness"        alt="TryHackMe badge 3"  src="https://assets.tryhackme.com/img/badges/securityawareness.svg"       width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/marto.endpoint/badges/web-fund"> <img title="Webbed"  alt="TryHackMe badge 4"  src="https://assets.tryhackme.com/img/badges/webbed.svg"  width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game">    <img title="King"          alt="TryHackMe badge 5"  src="https://tryhackme.com/img/badges/king.svg"         width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/30-day-streak"><img title="30 Day Streak" alt="TryHackMe badge 6"  src="https://tryhackme.com/img/badges/streak30.svg"     width="100"></a>
 </div>
