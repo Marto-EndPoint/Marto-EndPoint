@@ -76,7 +76,7 @@
 
 ---
 
-## Mis herramientas
+## [Mis herramientas](https://github.com/Marto-EndPoint/herramientas)
 
 - [Python](https://github.com/Marto-EndPoint/herramientas/tree/main/Python)
 - [Bash](https://github.com/Marto-EndPoint/herramientas/tree/main/Bash)
@@ -111,7 +111,7 @@ Aquí están algunas de mis medallas obtenidas en TryHackMe:
 </div>
 <br>
 
-## CTF Writeups
+## [CTF Writeups](https://github.com/Marto-EndPoint/CTF-Writeups)
 
 - [TryHackMe](https://github.com/Marto-EndPoint/CTF-Writeups/tree/main/TryHackMe)
 - [PortSwigger](https://github.com/Marto-EndPoint/CTF-Writeups/tree/main/PortSwigger)
