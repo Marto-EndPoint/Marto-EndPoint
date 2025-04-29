@@ -78,9 +78,9 @@
 
 ## Mis herramientas
 
-- [Python](https://github.com/Marto-EndPoint/herramientas/Python)
-- [Bash](https://github.com/Marto-EndPoint/herramientas/Bash)
-- [Arduino](https://github.com/Marto-EndPoint/herramientas/Arduino)
+- [Python](https://github.com/Marto-EndPoint/herramientas/tree/main/Python)
+- [Bash](https://github.com/Marto-EndPoint/herramientas/tree/main/Bash)
+- [Arduino](https://github.com/Marto-EndPoint/herramientas/tree/main/Arduino)
 
 ---
 ## Mi perfil de TryHackMe
