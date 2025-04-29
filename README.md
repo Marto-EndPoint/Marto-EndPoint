@@ -78,8 +78,9 @@
 
 ## Mis herramientas
 
-- [Mapache Anon](https://github.com/Marto-EndPoint/mapache-anon)
-
+- [Python](https://github.com/Marto-EndPoint/herramientas/Python)
+- [Bash](https://github.com/Marto-EndPoint/herramientas/Bash)
+- [Arduino](https://github.com/Marto-EndPoint/herramientas/Arduino)
 
 ---
 ## Mi perfil de TryHackMe
@@ -110,10 +111,10 @@ Aquí están algunas de mis medallas obtenidas en TryHackMe:
 </div>
 <br>
 
-## Guias TryHackMe
+## CTF Writeups
 
-- [pendiente]()
-- [pendiente]()
+- [TryHackMe](https://github.com/Marto-EndPoint/CTF-Writeups/tree/main/TryHackMe)
+- [PortSwigger](https://github.com/Marto-EndPoint/CTF-Writeups/tree/main/PortSwigger)
 
 ---
 <div align="center">
