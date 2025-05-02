@@ -9,7 +9,7 @@
 🌱 En constante formación, expandiendo habilidades en desarrollo de software y seguridad digital  
 🌟 Principales tecnologías: Python, C, C++, Bash, Git  
 🚩 Interesado en la innovación tecnológica, la seguridad informática y la creación de soluciones eficientes  
-💖 Apasionado por la tecnología, la mejora continua y los nuevos desafíos  
+💖 Apasionado por la tecnología, la mejora continua y los nuevos desafíos   
 
 </div>
 
